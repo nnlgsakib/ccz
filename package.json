@@ -62,7 +62,7 @@
     "tslint-config-standard": "^8.0.1"
   },
   "engines": {
-    "node": "~10.13.0"
+    "node": "18.x"
   },
   "jest": {
     "setupFiles": [
